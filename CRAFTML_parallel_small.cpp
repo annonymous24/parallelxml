@@ -1,4 +1,7 @@
 /* MPI Program Template */
+// MPI+X code to implement parallel classifier
+// Author: Pawan Kumar, CSTAR, IIITH
+// Email: pawan.kumar@iiit.ac.in
 
 #include <stdio.h>
 #include <string.h>

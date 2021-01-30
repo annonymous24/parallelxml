@@ -1,4 +1,7 @@
 /* MPI Program Template */
+// Heteregenous MPI+X implementation of classification 
+// Author: Pawan Kumar, CSTAR, IIITH
+// Email: pawan.kumar@iiit.ac.in
 
 #include <stdio.h>
 #include <string.h>

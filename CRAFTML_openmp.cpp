@@ -1,3 +1,7 @@
+// OpenMP implementation of extreme classification
+// Author: pawan kumar
+// Email: pawan.kumar@iiit.ac.in
+
 #include <bits/stdc++.h>
 #include "mm.h"
 #include <omp.h>

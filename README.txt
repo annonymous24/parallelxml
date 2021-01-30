@@ -1,5 +1,3 @@
-Project : CRAFTML parallel implementation using MPI and OpenMP threads 
-Team : Sayantan Jana [20171185] , Gaurav Sultane [20171036]
 
 We refer to the datasets as small files and large files below :
 Small : Mediamill, Bibtex, Delicious
